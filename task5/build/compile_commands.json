@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mintsd/UniversityC++/task5/build",
+    "command": "c++  -Isrc/myproject/myproject@exe -Isrc/myproject -I../src/myproject -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++11 -O0 -g -MD -MQ 'src/myproject/myproject@exe/mergesort.cpp.o' -MF 'src/myproject/myproject@exe/mergesort.cpp.o.d' -o 'src/myproject/myproject@exe/mergesort.cpp.o' -c ../src/myproject/mergesort.cpp",
+    "file": "../src/myproject/mergesort.cpp"
+  }
+]

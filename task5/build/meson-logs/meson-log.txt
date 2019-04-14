@@ -1,0 +1,24 @@
+Build started at 2019-01-10T16:06:45.808202
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/mintsd/UniversityC++/task5
+Build dir: /home/mintsd/UniversityC++/task5/build
+Build type: native build
+Project name: myproject
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /home/mintsd/UniversityC++/task5/build/meson-private/sanitycheckcpp.cc -o /home/mintsd/UniversityC++/task5/build/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mintsd/UniversityC++/task5/build/meson-private/sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 7.3.0 "c++ (Ubuntu 7.3.0-16ubuntu3) 7.3.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja

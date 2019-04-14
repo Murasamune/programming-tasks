@@ -1,0 +1,46 @@
+Build started at 2019-01-11T08:09:36.122586
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/mintsd/UniversityC++/task4
+Build dir: /home/mintsd/UniversityC++/task4/build
+Build type: native build
+Project name: myproject
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /home/mintsd/UniversityC++/task4/build/meson-private/sanitycheckcpp.cc -o /home/mintsd/UniversityC++/task4/build/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/mintsd/UniversityC++/task4/build/meson-private/sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 7.3.0 "c++ (Ubuntu 7.3.0-16ubuntu3) 7.3.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Running compile:
+Working directory:  /tmp/tmpoe_v10a7
+Command line:  c++ /tmp/tmpoe_v10a7/testfile.cpp -O0 -fpermissive -Wl,--start-group -lgtest -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmpoe_v10a7/output.exe 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Running compile:
+Working directory:  /tmp/tmp4kpcatxj
+Command line:  c++ /tmp/tmp4kpcatxj/testfile.cpp -O0 -fpermissive -Wl,--start-group -lgtest_main -Wl,--end-group -pipe -D_FILE_OFFSET_BITS=64 -o /tmp/tmp4kpcatxj/output.exe 
+
+Code:
+ int main(int argc, char **argv) { return 0; }
+Compiler stdout:
+ 
+Compiler stderr:
+ 
+Dependency GTest found: YES (prebuilt)
+Adding test "mass2d".
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja

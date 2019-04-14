@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mintsd/UniversityC++/task3/build",
+    "command": "c++  -Isrc/test/message_test@exe -Isrc/test -I../src/test -Isrc -I../src -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++11 -O0 -g -pthread -MD -MQ 'src/test/message_test@exe/message_test.cc.o' -MF 'src/test/message_test@exe/message_test.cc.o.d' -o 'src/test/message_test@exe/message_test.cc.o' -c ../src/test/message_test.cc",
+    "file": "../src/test/message_test.cc"
+  }
+]
